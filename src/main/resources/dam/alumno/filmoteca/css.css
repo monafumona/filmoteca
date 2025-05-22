@@ -1,0 +1,20 @@
+AnchorPane{
+    -fx-background-image: url("https://thumbs.dreamstime.com/b/pel%C3%ADcula-del-cine-2376055.jpg");
+}
+
+Button{
+    -fx-background-color: white;
+}
+
+Button:hover{
+    -fx-background-color: #3f403e;
+    -fx-text-fill: white;
+}
+
+TableView{
+    -fx-background-color: white;
+}
+
+/*VBox{
+    -fx-background-color: grey;
+}*/
